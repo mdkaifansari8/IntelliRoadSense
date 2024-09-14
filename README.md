@@ -1,9 +1,4 @@
-# Omdena Jakarta - Smart Traffic System
-
-## Project Links: 
-1. [Streamlit Webapp](https://omdena-jakarta-traffic-system.streamlit.app/)
-2. [Pitch Deck Video](https://clipchamp.com/watch/R69z4mhQp3o)
-3. [Omdena Chapter Link](https://omdena.com/chapter-challenges/predicting-road-defects-and-optimizing-traffic-light-countdown-to-reduce-congestion-in-indonesia/)
+# IntelliRoadSense - Smart Traffic System
 
 ## Background
 **Traffic Management refers to the combination of measures that serve to preserve traffic capacity and improve the security, safety and reliability of the overall road transport system. These measures make use of ITS systems, services and projects in day-to-day operations that impact on road network performance. Proper traffic management can ensure that**
@@ -113,16 +108,3 @@ Run Locally
 ```bash
   streamlit run Introduction.py
 ```
-
-## Contributions
-Chapter Lead: Louis Jefferson Zhang
-
-Technical Lead: Sudhanshu Rastogi
-
-Collaborators:
-- Mohamed Chahed
-- Mansoor Baig
-- Nishtha Bhattacharjee
-
-## Project Archives
-Navigate to [archive branch](https://github.com/OmdenaAI/smart-traffic-system-JKT/tree/archive) to look into some project development notebooks.
