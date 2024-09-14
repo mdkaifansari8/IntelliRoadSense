@@ -88,7 +88,7 @@ Pytorch, Torchvision, Ultralytics, OpenCV, Numpy, Streamlit, Git
 Clone the project
 
 ```bash
-  git clone https://github.com/OmdenaAI/jakarta-indonesia-predicting-road-defects
+  git clone https:https://github.com/mdkaifansari8/IntelliRoadSense
 ```
 
 Change to project directory
